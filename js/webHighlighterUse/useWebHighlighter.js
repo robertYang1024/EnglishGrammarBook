@@ -72,17 +72,22 @@ function getPosition($node) {
 highlighter
     .on(Highlighter.event.CLICK, ({id}) => {
         log('click -', id);
+
+        // 添加删除提示
+        setTimeout(() => {
+            const position = getPosition(highlighter.getDoms(id)[0]);
+            createTag(position.top, position.left, id);
+        }, 100);
     })
     .on(Highlighter.event.HOVER, ({id}) => {
         log('hover -', id);
         highlighter.addClass('highlight-wrap-hover', id);
-        // 添加删除提示
-        const position = getPosition(highlighter.getDoms(id)[0]);
-        createTag(position.top, position.left, id);
+        
     })
     .on(Highlighter.event.HOVER_OUT, ({id}) => {
-        log('hover out -', id,`$('.my-remove-tip [data-id=${id}]'`);
+        log('hover out -', id);
         highlighter.removeClass('highlight-wrap-hover', id);
+
         // $('.my-remove-tip').remove(); // 移除删除提示
     })
     .on(Highlighter.event.CREATE, ({sources}) => {
@@ -165,6 +170,8 @@ document.querySelectorAll('[name="auto"]').forEach($n => {
 switchAuto(autoStatus);
 
 let colorStatus = 'yellow';
+
+/** 添加监听函数 */
 document.addEventListener('click', e => {
     const $ele = e.target;
 
@@ -175,9 +182,11 @@ document.addEventListener('click', e => {
         highlighter.removeClass('highlight-wrap-hover', id);
         highlighter.remove(id);
         $ele.parentNode.removeChild($ele);
+    }else {
+        $('.my-remove-tip').remove(); // 移除删除提示
     }
     // toggle auto highlighting switch
-    else if ($ele.getAttribute('name') === 'auto') {
+    if ($ele.getAttribute('name') === 'auto') {
         const val = $ele.value;
         if (autoStatus !== val) {
             switchAuto(val);
