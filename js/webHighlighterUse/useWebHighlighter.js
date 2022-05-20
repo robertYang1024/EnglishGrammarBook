@@ -76,17 +76,22 @@ highlighter
     .on(Highlighter.event.HOVER, ({id}) => {
         log('hover -', id);
         highlighter.addClass('highlight-wrap-hover', id);
+        // 添加删除提示
+        const position = getPosition(highlighter.getDoms(id)[0]);
+        createTag(position.top, position.left, id);
     })
     .on(Highlighter.event.HOVER_OUT, ({id}) => {
-        log('hover out -', id);
+        log('hover out -', id,`$('.my-remove-tip [data-id=${id}]'`);
         highlighter.removeClass('highlight-wrap-hover', id);
+        // $('.my-remove-tip').remove(); // 移除删除提示
     })
     .on(Highlighter.event.CREATE, ({sources}) => {
         log('create -', sources);
-        sources.forEach(s => {
-            const position = getPosition(highlighter.getDoms(s.id)[0]);
-            createTag(position.top, position.left, s.id);
-        });
+        // 创建删除提示
+        // sources.forEach(s => {
+        //     const position = getPosition(highlighter.getDoms(s.id)[0]);
+        //     createTag(position.top, position.left, s.id);
+        // });
         sources = sources.map(hs => ({hs}));
         mystore.save(sources);
     })
