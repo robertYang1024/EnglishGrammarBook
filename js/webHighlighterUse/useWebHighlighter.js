@@ -227,11 +227,23 @@ document.addEventListener('mouseover', e => {
     }
 });
 
-// 获取数据存储，将高亮区域还原展示在网页上
-setTimeout(() => {
-    mystore.getAll().forEach(
-        ({hs}) => highlighter.fromStore(hs.startMeta, hs.endMeta, hs.text, hs.id)
-    );
-}, 1000);
+window.addEventListener('hashchange', e => {
+    console.log('hash change *****', e);
+    mystore.updateKey();
+    restoreHightlight();
+})
+
+/**
+ * 获取数据存储，将高亮区域还原展示在网页上
+ */
+function restoreHightlight(){
+
+    setTimeout(() => {
+        mystore.getAll().forEach(
+            ({hs}) => highlighter.fromStore(hs.startMeta, hs.endMeta, hs.text, hs.id)
+        );
+    }, 500);
+}
 
 highlighter.run();
+restoreHightlight();

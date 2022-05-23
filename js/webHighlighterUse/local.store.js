@@ -1,6 +1,16 @@
 class LocalStore {
-    constructor(id) {
-        this.key = id !== undefined ? `highlight-mengshou-${id}` : 'highlight-mengshou';
+    // constructor(id) {
+    //     this.key = id !== undefined ? `highlight-mengshou-${id}` : 'highlight-mengshou';
+    // }
+    constructor() {
+        
+        const hashs = window.location.hash.split('#');
+        this.key = `highlight-#${hashs[1].replaceAll("/",'-')}`; 
+    }
+
+    updateKey() {
+        const hashs = window.location.hash.split('#');
+        this.key = `highlight-#${hashs[1].replaceAll("/",'-')}`; 
     }
 
     storeToJson() {
