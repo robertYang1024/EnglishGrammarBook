@@ -3,34 +3,44 @@ class LocalStore {
     //     this.key = id !== undefined ? `highlight-mengshou-${id}` : 'highlight-mengshou';
     // }
     constructor() {
-        
-        const hashs = window.location.hash.split('#');
-        this.key = `highlight-#${hashs[1].replaceAll("/",'-')}`; 
+        const hash  = window.location.hash || '#README';
+        const hashs = hash.split('#');
+        this.key = `highlight-${hashs[1].replaceAll("/",'-')}`; 
     }
 
     updateKey() {
         const hashs = window.location.hash.split('#');
-        this.key = `highlight-#${hashs[1].replaceAll("/",'-')}`; 
+        this.key = `highlight-${hashs[1].replaceAll("/",'-')}`; 
     }
 
     storeToJson() {
-        const store = localStorage.getItem(this.key);
-        let sources;
-        try {
-            sources = JSON.parse(store) || [];
-        }
-        catch (e) {
-            sources = [];
-        }
-        return sources;
+        // const store = localStorage.getItem(this.key);
+        return axios.get(`/api/english/notes?key=${this.key}`).then(res => {
+            const result =  res.data;
+            let sources = [];
+            if (result.code === 200) {
+
+                // try {
+                //     sources = JSON.parse(store) || [];
+                // }
+                // catch (e) {
+                //     sources = [];
+                // }
+                sources = result?.data?.data || [];
+            }
+            return sources;
+        });
     }
 
     jsonToStore(stores) {
-        localStorage.setItem(this.key, JSON.stringify(stores));
+        // localStorage.setItem(this.key, JSON.stringify(stores));
+        axios.post(`/api/english/save?key=${this.key}`, stores).then(res => {
+            return res.data;
+        })
     }
 
-    save(data) {
-        const stores = this.storeToJson();
+   async save(data) {
+        const stores = await this.storeToJson();
         const map = {};
         stores.forEach((store, idx) => map[store.hs.id] = idx);
 
@@ -51,14 +61,14 @@ class LocalStore {
         this.jsonToStore(stores);
     }
 
-    forceSave(store) {
-        const stores = this.storeToJson();
+    async forceSave(store) {
+        const stores = await this.storeToJson();
         stores.push(store);
         this.jsonToStore(stores);
     }
 
-    remove(id) {
-        const stores = this.storeToJson();
+    async remove(id) {
+        const stores = await this.storeToJson();
         let index = null;
         for (let i = 0; i < stores.length; i++) {
             if (stores[i].hs.id === id) {
@@ -70,8 +80,10 @@ class LocalStore {
         this.jsonToStore(stores);
     }
 
-    getAll() {
-        return this.storeToJson();
+    async getAll() {
+        const ddd = await this.storeToJson();
+        console.log('ddd', ddd);
+        return ddd;
     }
 
     removeAll() {

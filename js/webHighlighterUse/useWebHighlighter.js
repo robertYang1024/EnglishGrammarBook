@@ -156,10 +156,10 @@ highlighter.hooks.Serialize.RecordInfo.tap(() => {
 /**
  * retrieve from local store
  */
-const storeInfos =  mystore.getAll();
-storeInfos.forEach(
-    ({hs}) => highlighter.fromStore(hs.startMeta, hs.endMeta, hs.text, hs.id, hs.extra)
-);
+// const storeInfos =  mystore.getAll();
+// storeInfos.forEach(
+//     ({hs}) => highlighter.fromStore(hs.startMeta, hs.endMeta, hs.text, hs.id, hs.extra)
+// );
 
 let autoStatus;
 document.querySelectorAll('[name="auto"]').forEach($n => {
@@ -239,9 +239,9 @@ window.addEventListener('hashchange', e => {
 function restoreHightlight(){
 
     setTimeout(() => {
-        mystore.getAll().forEach(
+        mystore.getAll().then(res => res.forEach(
             ({hs}) => highlighter.fromStore(hs.startMeta, hs.endMeta, hs.text, hs.id)
-        );
+        ))
     }, 500);
 }
 
