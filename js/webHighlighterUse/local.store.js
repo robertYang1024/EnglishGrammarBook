@@ -82,7 +82,6 @@ class LocalStore {
 
     async getAll() {
         const ddd = await this.storeToJson();
-        console.log('ddd', ddd);
         return ddd;
     }
 

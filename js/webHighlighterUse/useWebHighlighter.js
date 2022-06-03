@@ -3,6 +3,9 @@
 // import Highlighter from '../src/index';
 // import LocalStore from './local.store';
 
+/** init:页面初始渲染  create:创建 */
+let highlightStatus = 'init';
+
 const highlighter = new Highlighter({
     wrapTag: 'i',
     exceptSelectors: ['.my-remove-tip', 'pre', 'code']
@@ -79,18 +82,23 @@ highlighter
             createTag(position.top, position.left, id);
         }, 100);
     })
-    .on(Highlighter.event.HOVER, ({id}) => {
-        log('hover -', id);
-        highlighter.addClass('highlight-wrap-hover', id);
+    // .on(Highlighter.event.HOVER, ({id}) => {
+    //     log('hover -', id);
+    //     highlighter.addClass('highlight-wrap-hover', id);
         
-    })
-    .on(Highlighter.event.HOVER_OUT, ({id}) => {
-        log('hover out -', id);
-        highlighter.removeClass('highlight-wrap-hover', id);
+    // })
+    // .on(Highlighter.event.HOVER_OUT, ({id}) => {
+    //     log('hover out -', id);
+    //     highlighter.removeClass('highlight-wrap-hover', id);
 
-        // $('.my-remove-tip').remove(); // 移除删除提示
-    })
+    //     // $('.my-remove-tip').remove(); // 移除删除提示
+    // })
     .on(Highlighter.event.CREATE, ({sources}) => {
+        // 页面初始化创建高亮的时候，也会触发这个，但此时并不需要save
+        if (highlightStatus === 'init') {
+            return;
+        } 
+
         log('create -', sources);
         // 创建删除提示
         // sources.forEach(s => {
@@ -143,9 +151,10 @@ highlighter
 //     return selectedNodes;
 // });
 
-highlighter.hooks.Serialize.Restore.tap(
-    source =>  log('Serialize.Restore hook -', source)
-);
+/** Restore，高亮笔记从store里恢复到页面的时候会触发 */
+// highlighter.hooks.Serialize.Restore.tap(
+//     source =>  log('Serialize.Restore hook -', source)
+// );
 
 highlighter.hooks.Serialize.RecordInfo.tap(() => {
     const extraInfo = Math.random().toFixed(4);
@@ -228,8 +237,12 @@ document.addEventListener('mouseover', e => {
 });
 
 window.addEventListener('hashchange', e => {
-    console.log('hash change *****', e);
+    console.log('hash change *****', e.newURL);
     mystore.updateKey();
+
+    // hash值变了，新页面，需要重新渲染，重置highlightStatus
+    highlightStatus = "init";
+
     restoreHightlight();
 })
 
@@ -239,9 +252,15 @@ window.addEventListener('hashchange', e => {
 function restoreHightlight(){
 
     setTimeout(() => {
-        mystore.getAll().then(res => res.forEach(
+        mystore.getAll()
+        .then(res => res.forEach(
+            // 通过接口拿到高亮值，还原到页面
             ({hs}) => highlighter.fromStore(hs.startMeta, hs.endMeta, hs.text, hs.id)
-        ))
+        )).then(() => {
+            // 初始化完了，把highlightStatus 置为create
+            highlightStatus = 'create';
+        });
+        
     }, 500);
 }
 
