@@ -1,3 +1,8 @@
+html {
+    background-color: #CCE8CF;  /* 绿豆沙 */
+    /* background-color: #E3EDCD; */  /* 青草绿  #E3EDCD    RGB(227, 237, 205) */
+    /* background-color: #FAF9DE; */ /* 杏仁黄  #FAF9DE    RGB(250, 249, 222) */
+}
 i {
     font-style: normal;
 }
