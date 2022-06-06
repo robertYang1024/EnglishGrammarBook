@@ -40,25 +40,28 @@ class LocalStore {
     }
 
    async save(data) {
-        const stores = await this.storeToJson();
-        const map = {};
-        stores.forEach((store, idx) => map[store.hs.id] = idx);
+        // const stores = await this.storeToJson();
+        // const map = {};
+        // stores.forEach((store, idx) => map[store.hs.id] = idx);
 
-        if (!Array.isArray(data)) {
-            data = [data];
-        }
+        // if (!Array.isArray(data)) {
+        //     data = [data];
+        // }
 
-        data.forEach(store => {
-            // update
-            if (map[store.hs.id] !== undefined) {
-                stores[map[store.hs.id]] = store;
-            }
-            // append
-            else {
-                stores.push(store);
-            }
+        // data.forEach(store => {
+        //     // update
+        //     if (map[store.hs.id] !== undefined) {
+        //         stores[map[store.hs.id]] = store;
+        //     }
+        //     // append
+        //     else {
+        //         stores.push(store);
+        //     }
+        // })
+        // this.jsonToStore(stores);
+        await axios.post(`/api/english/save?key=${this.key}`, data).then(res => {
+            return res.data;
         })
-        this.jsonToStore(stores);
     }
 
     async forceSave(store) {
@@ -68,16 +71,20 @@ class LocalStore {
     }
 
     async remove(id) {
-        const stores = await this.storeToJson();
-        let index = null;
-        for (let i = 0; i < stores.length; i++) {
-            if (stores[i].hs.id === id) {
-                index = i;
-                break;
-            }
-        }
-        stores.splice(index, 1);
-        this.jsonToStore(stores);
+        // const stores = await this.storeToJson();
+        // let index = null;
+        // for (let i = 0; i < stores.length; i++) {
+        //     if (stores[i].hs.id === id) {
+        //         index = i;
+        //         break;
+        //     }
+        // }
+        // stores.splice(index, 1);
+        // this.jsonToStore(stores);
+
+        await axios.delete(`/api/english/delete-one-note?key=${this.key}&noteId=${id}`).then(res => {
+            return res.data;
+        })
     }
 
     async getAll() {
