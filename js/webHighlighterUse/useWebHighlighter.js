@@ -259,6 +259,8 @@ function restoreHightlight(){
         )).then(() => {
             // 初始化完了，把highlightStatus 置为create
             highlightStatus = 'create';
+        }).catch(e => {
+            console.log(e);
         });
         
     }, 500);
