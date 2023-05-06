@@ -972,7 +972,7 @@ Money is <u>one reason</u> [<u>why</u> I don’t take any vacations].
 先行词 关系副词 关系子句
 （我不休假，原因之一是为了钱。）
 
-1.  疑问词（who, which, what, when, where, how, why）。疑问词引导的子句是由疑问句改写而来的名词子句。例如：
+2.  疑问词（who, which, what, when, where, how, why）。疑问词引导的子句是由疑问句改写而来的名词子句。例如：
 
 [<u>Who</u> stole the money] will be revealed soon.
 疑问词 名词子句
@@ -1002,7 +1002,7 @@ That is [<u>why</u> I need your help].
 疑问词 名词子句
 （这就是我要你帮忙的原因了。）
 
-1.  外加的从属连接词（when, where）。这种从属连接词引导的子句是副词子句，修饰动词的时间与地方。例如：
+3.  外加的从属连接词（when, where）。这种从属连接词引导的子句是副词子句，修饰动词的时间与地方。例如：
 
 The game <u>ended</u> [<u>when</u> he hit a homerun].
 动词 连接词 副词子句
@@ -1012,7 +1012,7 @@ The ship is to boldly <u>go</u> [<u>where</u> none has gone before].
 动词 连接词 副词子句
 （这艘船将勇敢航向无人曾到之处。）
 
-二、Wh​​-ever 的混淆
+### 二、Wh​​-ever 的混淆
 
 拼成wh-ever形状、具有连接词功能的字，可以分成两种：
 
@@ -1030,7 +1030,7 @@ I’ll buy [<u>whichever car</u>(= any car that) you recommend].
 复合关系代名词 名词子句
 （你推荐哪辆车我就买哪辆。）
 
-1.  Whoever, whichever, whatever, whenever, wherever, however，用法相当于在疑问词 who, which, what, when, where, how 的前面外加 no matter 表示「让步」语气。这种连接词引导的子句是副词子句，例如：
+2.  Whoever, whichever, whatever, whenever, wherever, however，用法相当于在疑问词 who, which, what, when, where, how 的前面外加 no matter 表示「让步」语气。这种连接词引导的子句是副词子句，例如：
 
 [<u>Whoever</u>(= No matter who) told you that story], don’t believe it.
 疑问词外加no matter 副词子句
@@ -1056,7 +1056,7 @@ He can never beat his rival, [<u>however hard</u>(= No matter how hard) he tries
 疑问词外加no matter 副词子句
 （他永远打不败他的对手，不论多么努力。）
 
-三、that的混淆
+### 三、that的混淆
 
 拼成 that、具有连接词功能的字，可以分成三种情况：
 
@@ -1066,7 +1066,7 @@ Are you sure [<u>that</u> everything is all right]?
 连接词 名词子句
 （你确定一切都没事吗？）
 
-1.  外加（so that, such that, in order that, in that）等有意义的连接词，引导的是副词子句，例如：
+2.  外加（so that, such that, in order that, in that）等有意义的连接词，引导的是副词子句，例如：
 
 He started work early [<u>so that</u> he could finish on time].
 连接词 副词子句
@@ -1076,7 +1076,7 @@ It was <u>such</u> a great meal [<u>that</u> everyone of us ate too much].
 连接词 副词子句
 （那一餐太棒了，结果我们每一个都吃太多。）
 
-1.  That 是关系词，改写自关系代名词（who, which）与关系副词（when, where, how, why），引导的子句没有逗点和先行词隔开、是具有指示功能的关系子句（形容词子句），修饰先行词。例如：
+3.  That 是关系词，改写自关系代名词（who, which）与关系副词（when, where, how, why），引导的子句没有逗点和先行词隔开、是具有指示功能的关系子句（形容词子句），修饰先行词。例如：
 
 He’s <u>the man</u> [<u>that</u> I told you about]. (that 相当于 who)
 先行词 关系代名词 关系子句
