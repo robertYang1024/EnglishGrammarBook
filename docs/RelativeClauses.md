@@ -936,15 +936,16 @@ S 关系子句 V C
 
 ## 厘清混淆点
 
-关系子句比较麻烦，因为它和名词子句之间、和副词子句之间都有许多容易混淆的地方。以下整理出三类混淆点，提醒读者注意。
+关系子句（形容词子句）、名词子句和副词子句之中的元素有许多容易混淆的地方。以下整理出三类混淆点，提醒读者注意。
 
 ### 一、Wh-的混淆
 
-拼成 wh- 形状、具有连接词功能的字，可以分成三种：
+拼成 wh- 形状、具有连接词功能的字，可以分成关系词（引导形容词子句）、疑问词（引导名词子句），以及外加的从属连接词（引导副词子句）三种，分别说明如下。
 
-1.  关系词，包括关系代名词（who, which）与关系副词（when, where, how, why）。关系词引导的子句是关系子句，也就是形容词子句，修饰先行词。例如：
+ #### 1.  关系词
+ 关系词包括关系代名词（who, which）与关系副词（when, where, how, why）。关系词引导的子句是关系子句，也就是形容词子句，修饰先行词。例如：
 
-#### 关系代名词
++  关系代名词  
 
 My father is <u>a man</u> [<u>who</u> always keeps his word].
 先行词 关系代名词 关系子句
@@ -954,7 +955,7 @@ My father is <u>a man</u> [<u>who</u> always keeps his word].
 先行词 关系代名词 关系子句
 （巴黎市历史悠久，是个充满传奇色彩的都市。）
 
-#### 关系副词
++ 关系副词
 
 I’ll never forget <u>my high school days</u>, [<u>when</u> life seemed so simple].
 先行词 关系副词 关系子句
@@ -972,7 +973,8 @@ Money is <u>one reason</u> [<u>why</u> I don’t take any vacations].
 先行词 关系副词 关系子句
 （我不休假，原因之一是为了钱。）
 
-2.  疑问词（who, which, what, when, where, how, why）。疑问词引导的子句是由疑问句改写而来的名词子句。例如：
+#### 2.  疑问词
+疑问词包含 who, which, what, when, where, how, why，引导的子句是由疑问句改写而来的名词子句。例如：
 
 [<u>Who</u> stole the money] will be revealed soon.
 疑问词 名词子句
@@ -1002,7 +1004,8 @@ That is [<u>why</u> I need your help].
 疑问词 名词子句
 （这就是我要你帮忙的原因了。）
 
-3.  外加的从属连接词（when, where）。这种从属连接词引导的子句是副词子句，修饰动词的时间与地方。例如：
+#### 3.  外加的从属连接词
+外加的从属连接词包含 when, where。这种从属连接词引导的子句是副词子句，修饰动词的时间与地点。例如：
 
 The game <u>ended</u> [<u>when</u> he hit a homerun].
 动词 连接词 副词子句
@@ -1014,9 +1017,10 @@ The ship is to boldly <u>go</u> [<u>where</u> none has gone before].
 
 ### 二、Wh​​-ever 的混淆
 
-拼成wh-ever形状、具有连接词功能的字，可以分成两种：
+拼成wh-ever形状、具有连接词功能的字，可以分成`复合关系代名词`（引导名词子句）以及`从属连接词`（引导副词子句）两种，分别说明如下。
 
-1.  复合关系代名词（what, whatever, whoever, whichever），解释为 anything that, anyone that 等等，包含先行词在内。复合关系代名词引导的子句是名词子句，例如：
+#### 1.  复合关系代名词
+复合关系代名词包含 what, whatever, whoever, whichever，可以解释为将先行词和关系词合并处理，如 anything that, anyone that 等等，`复合关系代名词`引导的子句是`名词子句`，例如：
 
 [<u>What(ever)</u>（= Anything that） he says] can’t be true.
 复合关系代名词 名词子句
@@ -1030,7 +1034,8 @@ I’ll buy [<u>whichever car</u>(= any car that) you recommend].
 复合关系代名词 名词子句
 （你推荐哪辆车我就买哪辆。）
 
-2.  Whoever, whichever, whatever, whenever, wherever, however，用法相当于在疑问词 who, which, what, when, where, how 的前面外加 no matter 表示「让步」语气。这种连接词引导的子句是副词子句，例如：
+#### 2.从属连接词
+这类从属连接词包含  Whoever, whichever, whatever, whenever, wherever, however，用法相当于在疑问词 who, which, what, when, where, how 的前面外加 no matter ，表示「让步」语气。这种连接词引导的子句是`副词子句`，例如：
 
 [<u>Whoever</u>(= No matter who) told you that story], don’t believe it.
 疑问词外加no matter 副词子句
@@ -1058,15 +1063,17 @@ He can never beat his rival, [<u>however hard</u>(= No matter how hard) he tries
 
 ### 三、that的混淆
 
-拼成 that、具有连接词功能的字，可以分成三种情况：
+具有连接词功能的 that，可以分成`名词子句从属连接词`、`副词子句从属连接词`，以及`关系词`（引导形容词子句）三种情况，分别说明如下。
 
-1.  直述句外加单独无意义的连接词 that，引导的是名词子句，例如：
+#### 1. 引导名词子句的从属连接词 
+直述句外加单独无意义的连接词 that，引导的是名词子句，例如：
 
 Are you sure [<u>that</u> everything is all right]?
 连接词 名词子句
 （你确定一切都没事吗？）
 
-2.  外加（so that, such that, in order that, in that）等有意义的连接词，引导的是副词子句，例如：
+#### 2. 引导副词子句的从属连接词
+直述句外加so that, such...that, in order that, in that等有意义的连接词，引导的是副词子句，例如：
 
 He started work early [<u>so that</u> he could finish on time].
 连接词 副词子句
@@ -1076,7 +1083,8 @@ It was <u>such</u> a great meal [<u>that</u> everyone of us ate too much].
 连接词 副词子句
 （那一餐太棒了，结果我们每一个都吃太多。）
 
-3.  That 是关系词，改写自关系代名词（who, which）与关系副词（when, where, how, why），引导的子句没有逗点和先行词隔开、是具有指示功能的关系子句（形容词子句），修饰先行词。例如：
+#### 3.关系词
+关系词 that 改写自关系代名词（who, which）与关系副词（when, where, how, why），引导的子句没有逗点和先行词隔开，是具有指示功能的关系子句（形容词子句），修饰先行词。例如：
 
 He’s <u>the man</u> [<u>that</u> I told you about]. (that 相当于 who)
 先行词 关系代名词 关系子句
@@ -1104,4 +1112,6 @@ Is this <u>the reason</u> [<u>that</u> he left so early]? (that 相当于 why)
 
 ## 结语
 
-关系子句的特色在于关系词不是外加、而是由内含的重复元素改写而来。所有的关系子句都是形容词子句。只有复合关系代名词引导的子句，因为取代了先行词，所以升格为名词子句。关系子句与先行词之间若有逗点隔开，表示这个子句是放在括弧内作补充说明之用、也就是不具指示功能。
+1. 关系子句的特色在于关系词不是外加、而是由内含的`重复元素`改写而来。
+2. 所有的关系子句都是`形容词子句`。只有复合关系代名词引导的子句，因为取代了先行词，所以升格为名词子句。
+3. 关系子句与先行词之间若有`逗点`隔开，表示这个子句是放在括弧内作补充说明之用、也就是`不具指示功能`。

@@ -37,6 +37,12 @@ body {
     -moz-box-shadow: 0 0 40px #CCC;
     border-right: 1px solid #BBB;
 }
+#sidebar .side-bar--active {
+    color: red;
+}
+#sidebar#sidebar .side-bar--active a{
+    color: red;
+}
 
 @media (min-width: 40rem) {
 	#sidebar {
