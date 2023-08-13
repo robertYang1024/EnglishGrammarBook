@@ -44,7 +44,44 @@ body {
     color: red;
 }
 
-@media (min-width: 40rem) {
+@media screen and (max-width: 48rem) {
+	#sidebar {
+        top: 0;
+        /* position: fixed; */
+        background: lightblue;
+        overflow: auto;
+        height: 100%;
+	}
+
+    .sidebar-right-arrow {
+        display: none;
+        position: fixed;
+        z-index: 10;
+        top: 50%;
+        left: -9px;
+        width: 24px;
+        height: 24px;
+        border-top: 4px solid ;
+        border-right: 4px solid ;
+        border-color: lightcoral;
+        transform: rotate(45deg);
+    }
+    .sidebar-left-arrow {
+        display: none;
+        position: fixed;
+        z-index: 10;
+        top: 50%;
+        left: 182px;
+        width: 24px;
+        height: 24px;
+        border-bottom: 4px solid ;
+        border-left: 4px solid ;
+        border-color: lightcoral;
+        transform: rotate(45deg);
+    }
+}
+
+@media screen and (min-width: 48rem) {
 	#sidebar {
 	width: 280px;
     position: fixed;
@@ -148,7 +185,16 @@ input.searchButton {
 	counter-reset: section;
 }
 
-@media (min-width: 40rem) {
+/* @media screen and (min-width: 36rem) {
+    #content {
+		max-width: 580px;
+		padding-left:220px;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+} */
+
+@media (min-width: 48rem) {
 	#content {
 		max-width: 580px;
 		padding-left:330px;
