@@ -25,4 +25,30 @@ $(document).ready(function(){
         initSideBar();
         onHashChange();
     }, 1000);
+
+    initSmallDeviceSideBar();
  });
+
+ /**小屏幕，侧边目录栏初始化 */
+ function initSmallDeviceSideBar() {
+    // 点击展开侧边目录
+    $('.sidebar-right-arrow').on('click', function(){
+        $("#sidebar").show();
+        $('.sidebar-left-arrow').show();
+        $('.sidebar-right-arrow').hide();
+    })
+
+    // 点击收起侧边目录
+    $('.sidebar-left-arrow').on('click', function(){
+        $("#sidebar").hide();
+        $('.sidebar-left-arrow').hide();
+        $('.sidebar-right-arrow').show();
+    })
+
+    // 点击content，收起侧边栏
+    $('#content').on('click', function(){
+        if ($(".sidebar-left-arrow").is(":visible")) {
+            $('.sidebar-left-arrow').click();
+        }
+    })
+ }

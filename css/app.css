@@ -46,15 +46,15 @@ body {
 
 @media screen and (max-width: 48rem) {
 	#sidebar {
+        display: none;
         top: 0;
-        /* position: fixed; */
+        position: fixed;
         background: lightblue;
         overflow: auto;
         height: 100%;
 	}
 
     .sidebar-right-arrow {
-        display: none;
         position: fixed;
         z-index: 10;
         top: 50%;
@@ -78,6 +78,11 @@ body {
         border-left: 4px solid ;
         border-color: lightcoral;
         transform: rotate(45deg);
+    }
+    .sidebar-left-arrow::after {
+        content: '';
+        width: 1px;
+        height: 1px;
     }
 }
 
