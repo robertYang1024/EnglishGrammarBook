@@ -44,7 +44,7 @@ body {
     color: red;
 }
 
-@media screen and (max-width: 48rem) {
+@media screen and (max-width: 49rem) {
 	#sidebar {
         display: none;
         top: 0;
@@ -58,7 +58,7 @@ body {
         position: fixed;
         z-index: 10;
         top: 50%;
-        left: -9px;
+        left: 0px;
         width: 24px;
         height: 24px;
         border-top: 4px solid ;
@@ -86,7 +86,7 @@ body {
     }
 }
 
-@media screen and (min-width: 48rem) {
+@media screen and (min-width: 49rem) {
 	#sidebar {
 	width: 280px;
     position: fixed;
@@ -199,7 +199,7 @@ input.searchButton {
 	}
 } */
 
-@media (min-width: 48rem) {
+@media (min-width: 49rem) {
 	#content {
 		max-width: 580px;
 		padding-left:330px;
