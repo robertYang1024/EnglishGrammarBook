@@ -1,8 +1,8 @@
 # 第二十五章 副词子句简化
 
-所有从属子句的减化，共通原则都是省略主词与 be 动词、留下补语部分，副词子句的减化也不例外。比较特别的地方是连接词的处理：名词子句外加无意义的连接词that在减化时会删除掉、关系子句重复的关系词也会在减化时一并省掉，只有副词子句的连接词词既不空洞、又不重复，所以在减化时往往需要把连接词保留下来，句子的意思才不会有损失。至于副词子句有哪些连接词要保留、哪些应该省略，​​必须从句意去斟酌：省略掉连接词之后句意仍然够清楚，才可以省略。
+再复习一下：所有从属子句的减化，共通原则都是省略主词与 be 动词，留下补语。副词子句也是这样，但比较特别的地方是连接词的处理。名词子句外加无意义的连接词that在减化时会删除掉、关系子句重复的关系词也会在减化时一并省掉，只有副词子句的连接词词既不空洞、又不重复，所以在减化时往往需要把连接词保留下来，句子的意思才不会有损失。至于副词子句有哪些连接词要保留、哪些应该省略，​​必须从句意去斟酌：省略掉连接词之后句意仍然够清楚，才可以省略。
 
-副词子句减化，动词部分的处理原则仍然和其他的从属子句相同：若有 be 动词则省略 be 动词、若有语气助动词则减化为表示不定词的 to，若只有普通动词则一律加 -ing。如此减化的结果，剩下的补语部分（减化子句）有可能是现在分词与过去分词这两种分词片语、不定词片语，以及其他（包括名词、形容词、介系词片语等等）。以下依补语的词类分别说明副词子句的减化。
+副词子句减化，动词部分的处理原则仍然和其他的从属子句相同：若有 be 动词则省略 be 动词；若有语气助动词则减化为表示不定词的 to；若只有普通动词则一律加 -ing。如此减化的结果，剩下的补语部分（减化子句）有可能是分词片语（现在分词、过去分词）、不定词片语，以及其他（包括名词、形容词、介系词片语等等）。以下依补语的词类分别说明副词子句的减化。
 
 ## 简化为分词构句
 
@@ -12,16 +12,16 @@
 副词子句 S V
 (住在我叔叔家的时候，我每天晚上都出去吃饭。)
 
-中括弧内的部分是个副词子句，修饰主要子句动词 dined out 的时间。副词子句要减化为分词构句，有一点要特别注意：副词子句的主词必须和主要子句的主词相同才可以省略，否则就是错误。就上面这个例子而言，副词子句的主词I和主要子句的主词相同、可以省略。动词是普通动词 stayed，没有 be 动词也没有助动词。这种动词的减化方式是加上 -ing 成为 staying。主词、动词这两个部分减化之后，剩下来的已经不再是个限定子句，原来的连接词 while 也已经不再需要。但是，while 除了连接词的文法功能之外还有字义：「当…时」。如果要把话讲得清楚一点，可以选择把 while 留下来。如果要更简洁，也可以选择把 while 省掉，如下：
+中括弧内的部分是个副词子句，修饰主要子句动词 dined out 的时间。副词子句要减化为分词构句，有一点要特别注意：副词子句的主词必须和主要子句的主词相同（或者副词子句的主词就等于整个主要子句），才可以省略，否则就会是错误的子句。就上面这个例子而言，副词子句的主词 I 和主要子句的主词 I 相同，因此可以省略。动词是普通动词 stayed，没有 be 动词也没有助动词。这种动词的减化方式是加上 -ing 成为 staying。主词、动词这两个部分减化之后，剩下来的已经不再是个限定子句，原来的连接词 while 也已经不再需要。但是，while 除了连接词的文法功能之外还有字义：「当…时」。如果要把话讲得清楚一点，可以选择把 while 留下来。如果要更简洁，也可以选择把 while 省掉，如下：
 
-[(While) staying at my uncle’s], <u>I</u> <u>dined out</u> every night.
+[(While) staying at my uncle’s], <u>I</u> <u>dined out</u> every night.   
 减化副词子句 S V
 
-传统文法认定现在分词是形容词，但是并没有深入观察省略的情况，所以会把 staying at my uncles 这个现在分词片语视为形容词片语看待。但是这个形容词片语显然不是用来修饰名词，而是修饰动词 dined out 的时间、当时间副词使用。碰到这种「词类不一致」的情况，传统文法的做法是取个名称来交代过去：「分词构句」的意思就是「分词片语构成副词子句使用」。其实，所谓分词构句就是副词子句减化之后剩下来的分词补语。以下分成现在分词构句与过去分词构句分别说明。
+传统文法认定现在分词是形容词，但是并没有深入观察省略的情况，所以会把 staying at my uncles 这个现在分词片语视为形容词片语看待。但是这个形容词片语显然不是用来修饰名词，而是修饰动词 dined out 的时间，当时间副词使用。碰到这种「词类不一致」的情况，传统文法的做法是取个名称来交代过去：「分词构句」，意思就是「分词片语构成副词子句使用」。其实，所谓分词构句就是副词子句减化之后剩下来的分词补语。以下分成现在分词构句与过去分词构句分别说明。
 
 ### 现在分词构句（Ving）
 
-[Because he was itching to be playing again], the boy <u>inserted</u> more coins.
+[Because he was itching to be playing again], the boy <u>inserted</u> more coins.   
 副词子句 V
 (因为他很想再玩，所以这个男孩又丢了几枚硬币。)
 
@@ -38,28 +38,46 @@
 
 副词子句（中括弧内的部分）修饰主要子句动词 offer 的时间或条件。主要子句采用直接命令句语气、省略了主词 you。副词子句的主词也是 you，减化时可以省略。动词部分是普通动词 see，减化的做法就是加上 -ing 成为现在分词 seeing，结果如下：
 
-[When seeing an old person on the bus], <u>offer</u> your seat to him.
+[(When) seeing an old person on the bus], <u>offer</u> your seat to him.   
 减化副词子句 V
 
-连接词 when 在文法上已无必要，但是用在这个句子中它有 whenever 的意思在内，减化子句中保留下这个连接词的话意思会比较清楚。
+连接词 when 在文法上已无必要，但是用在这个句子中它有 whenever 的意思在内，减化子句中保留下这个连接词的话意思会比较清楚。但是省略掉 when 的话句子还是正确的。
 
-[While I am only a student], I <u>want</u> to marry you now.
+[While I am only a student], I <u>want</u> to marry you now.   
 副词子句 V
 (虽然我只是学生，我现在就要和你结婚。)
 
-中括弧内是个副词子句，修饰主要子句动词 want。这个副词子句的主词是 I，和主要子句相同、可以省略。动词是无意义的 be 动词，在减化子句中通常是可以省略掉的东西。但是如果把 I am 省略掉，剩下的部分是个名词补语 only a student，这个词类和原来副词子句的词类差距太大：副词子句是个可有可无的修饰语，而名词则通常是主词、受词、补语等主要元素。所以，如果选择减化掉 I am、只留下名词补语 only a student，那么原来的连接词 while 也必须保留下来，读者才看得出来 only a student 是副词子句减化的结果，如下：
+中括弧内是个副词子句，修饰主要子句动词 want。这个副词子句的主词是 I，和主要子句相同，可以省略。动词是无意义的 be 动词，在减化子句中通常是可以省略掉的东西。但是如果把 I am 省略掉，剩下的部分是个名词补语 only a student。接下来有几种不同的选择，每一种选择都可以产生出文法正确的句子，但是修辞效果各有优缺点。其中最精简的做法是把 while 也删掉，成为：
 
-[While only a student], I <u>want</u> to marry you now.
+[Only a student], I <u>want</u> to marry you now.    
 减化副词子句 V
 
-反之，如果要选择省略掉连接词 while，就必须做两个动作。第一，only a student 必须改变词类，在前面加上 being，成为 being only a student 这个现在分词片语，也就是所谓的分词构句，读者才看得出来它扮演的角色是减化副词子句。第二，减化子句中虽然不再需要连接词，但是 while 这个连接词有「虽然」的字意，省掉的话句子的意思会变得不够清楚。可以选择把它保留下来，成为 while being only a student 这个分词构句。也可以省略掉连接词 while，改以连接副词如 still, nevertheless, however 之类来取代，句子的逻辑关系才不会不清楚：
+这个子句的优点是精简，但缺点就是有点不大清楚。首先，简化子句中固然不在需要连接词，但是 while 表达了「虽然...但是」，被删掉后就没办法清楚交代这一层语义了。
 
-[Being only a student], I still <u>want</u> to marry you now.
+而且名词补语 only a student ，这个词类和原来副词子句的词类差距太大：副词子句是个可有可无的修饰语，而名词则通常是主词、受词、补语等主要元素。所以，如果选择减化掉 I am、只留下名词补语 only a student，那么原来的连接词 while 也必须保留下来，读者才看得出来 only a student 是副词子句减化的结果，如下：
+
+[While only a student], I <u>want</u> to marry you now.   
 减化副词子句 V
 
+这种处理方式比刚才多了一个字，比较不简洁，但是比较清楚，因为有交代出「虽然...但是」这一层逻辑关系。不过，这个句子还是有不够清楚之处。原因是，副词子句简化之后，剩下来的是个名词补语（only a student），因为放在句首，读者一看到可能会觉得它更像是主词。如果想要交代得更清楚一点，可以这样处理：
+
+[While being only a student], I <u>want</u> to marry you now.   
+减化副词子句 V
+
+把 be 动词拿出来做词类变化，成为 being，那么读者就很容易判断放在它后面的 only a student 是补语，句子会比较清楚。但是，语义更清楚的结果就是句子比较不简洁、用字更多，这也是考虑简洁性与清楚性时必定要权衡的。另外，这个句子还有一种选择：
+
+[Being only a student], I <u>still</u> <u>want</u> to marry you now.
+减化副词子句 V
+
+这是选择把文法上不需要的连接词 while 删掉，用副词 still 取代它。这时候，虽然句中没有了连接词，但是两个子句之间「相反」的逻辑关系用副词 still 也能够交代清楚。
+
+如果要选择省略掉连接词 while，就必须做两个动作。第一，only a student 必须改变词类，在前面加上 being，成为 being only a student 这个现在分词片语，也就是所谓的分词构句，读者才看得出来它扮演的角色是减化副词子句。第二，减化子句中虽然不再需要连接词，但是 while 这个连接词有「虽然」的字意，省掉的话句子的意思会变得不够清楚。可以选择把它保留下来，成为 while being only a student 这个分词构句；也可以省略掉连接词 while，改以连接副词如 still, nevertheless, however 之类来取代，句子的逻辑关系才不会不清楚。
+
+
+#### 连接词可作介系词
 下面这个例子的情况稍有不同：
 
-[After he graduated from college], he <u>found</u> himself unemployed.
+[After he graduated from college], he <u>found</u> himself unemployed.   
 副词子句 V
 (大学毕业之后，他发现自己失业了。)
 
@@ -75,21 +93,54 @@
 
 这样做的时候要注意：连接词 after 亦可当介系词使用。如果后面的子句减化掉了、不再是限定子句，它就自动转变成介系词。而在介系词后面必须用名词片语当受词。观察一下发现：graduating from college 可以当动名词片语使用，也就是可以当作介系词 after 的受词，因而可以接受。再看一个例子：
 
-Two Vietnamese patients died from avian flu.
+[<u>After</u> he wrote the letter], he <u>put</u> it to email.   
+副词子句 V
+
+这个里面的副词子句，简化的结果就是把重复的主词 he 省掉，动词 wrote 改为 writing，接下来需要判断连接词 after 是否保留。如果留下，句子会变成：
+
+[<u>After writing</u> the letter], he <u>put</u> it to email.   
+介系词片语  &ensp;&ensp;V
+
+这个句子的意思很清楚，文法也正确，因为连接词 after 留下来之后变成介系词，后面的 writing 视为动名词看待，可以当做介系词的受词，这个简化副词子句其实就变成了一个介系词片语。如果选择删去 after，句子反而不够清楚了：
+
+*[Writing the letter], he <u>put</u> it to email.  【不佳】   
+简化副词子句  &ensp;&ensp;V
+
+上面这个句子，读者看不到 after，一般会在前面加上 when 来解读。可是 * When he writing the letter, he put it to email. 这个句子并不合逻辑，因为信没写完，怎么就拿去投递了呢？
+
+如果想要删除连接词，可以先把原句改写如下：
+
+[<u>When he had  written</u> the letter], he <u>put</u> it to email.   
+副词子句  &ensp;&ensp;V
+
+副词子句的连接词改成 when，这个连接词不像 after，不能交代谁先谁后，所以必须靠动词来表达这层语义。副词子句用过去完成式 had written，主要子句则是用过去简单式 put，这样也可以交代清楚是「先写完了然后再投递」。从这个改写过的句子来进行简化，结果就是：
+
+[<u>Having written</u> the letter], he <u>put</u> it to email.   
+简化副词子句  &ensp;&ensp;V
+
+简化之后，连接词 when 不必保留，语义就很清楚，动作的先后也都已经交代清楚了。
+
+#### 副词子句的主词就是整个主要子句
+
+副词子句简化为分词构句，它的主词必须和主要子句的主词相同才可以。不过，如果副词子句的主词指的就是整个主要子句，这也在可以简化之列。例如：
+
+Two Vietnamese patients died from avian flu.   
 (两名越南病人死于禽流感。)
 
-This caused widespread panic in Southeast Asia.
+This caused widespread panic in Southeast Asia.   
 (这件事情在东南亚引起大恐慌。)
 
-句 2 的内容说明句1造成的结果，可以用表达​​结果的连接词 so 引导、制造复句如下：
+句 2 的内容说明句1造成的结果，可以用表达​​结果的连接词 so that 引导，改写成复句如下：
 
-Two Vietnamese patients <u>died</u> from avian flu, [so this caused widespread panic in Southease Asia].
+Two Vietnamese patients <u>died</u> from avian flu, [<u>so that</u> <u>this</u> caused widespread panic in Southease Asia].   
 副词子句
 
 副词子句（中括弧内部分）修饰主要子句动词 died 的结果。这个副词子句的主词 this 和主要子句的主词 two Vietnamese patients 并不相同，通常是不能减化的。不过，副词子句主词 this 代表的内容就是整个主要子句那件事情，这种情况仍可视为主词有重复，可以进行减化。做法是把重复的主词this省掉、普通动词 caused 加上 -ing 成为现在分词 causing。连接词 so 表达的是因果关系，而分词构句本身就具有因果关系的表达功能（表示原因的分词构句常放在句首、表示结果的常放在句尾），所以这些表达因果关系的连接词不会保留下来。结果就是：
 
 Two Vietnamese patients <u>died</u> from avian flu, [causing widespread panic in Southease Asia].
 减化副词子句
+
+#### 副词子句的主词与主要子句不同，独立片语
 
 下面这个例子的情况又不一样：
 
