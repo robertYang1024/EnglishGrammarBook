@@ -135,171 +135,229 @@ This caused widespread panic in Southeast Asia.
 Two Vietnamese patients <u>died</u> from avian flu, [<u>so that</u> <u>this</u> caused widespread panic in Southease Asia].   
 副词子句
 
-副词子句（中括弧内部分）修饰主要子句动词 died 的结果。这个副词子句的主词 this 和主要子句的主词 two Vietnamese patients 并不相同，通常是不能减化的。不过，副词子句主词 this 代表的内容就是整个主要子句那件事情，这种情况仍可视为主词有重复，可以进行减化。做法是把重复的主词this省掉、普通动词 caused 加上 -ing 成为现在分词 causing。连接词 so 表达的是因果关系，而分词构句本身就具有因果关系的表达功能（表示原因的分词构句常放在句首、表示结果的常放在句尾），所以这些表达因果关系的连接词不会保留下来。结果就是：
+副词子句（中括弧内部分）修饰主要子句动词 died 的结果。这个副词子句的主词 this 和主要子句的主词 two Vietnamese patients 并不相同，通常是不能减化的。不过，副词子句主词 this 其实指的是整个主要子句 Two Vietnamese patients died from avian flu 这件事情，这种情况仍可视为主词与主要子句有重复，可以进行减化。做法是把重复的主词 this 省掉、普通动词 caused 加上 -ing 成为现在分词 causing。连接词 so that 表达的是因果关系，而分词构句本身就具有因果关系的表达功能（表示原因的分词构句常放在句首，表示结果的常放在句尾，所谓“前因后果”），所以凡是功能重复的连接词都不必保留下来（这些表达因果关系的连接词不会保留下来）。结果就是：
 
-Two Vietnamese patients <u>died</u> from avian flu, [causing widespread panic in Southease Asia].
+Two Vietnamese patients <u>died</u> from avian flu, [<u>causing</u> widespread panic in Southease Asia].   
 减化副词子句
 
 #### 副词子句的主词与主要子句不同，独立片语
 
-下面这个例子的情况又不一样：
+副词子句简化，尤其是简化为分词构句，要也别注意「主词相同才可以省略」的要求。请看下面这个例子：
 
-[As it was rather late], the rescue workers <u>decided</u> to quit.
-副词子句 V
+[<u>As</u> it was rather late], the rescue workers <u>decided</u> to quit.   
+副词子句 V   
 (因为时候不早了，这些救难人员决定要停手。)
 
-副词子句（中括弧内的部分）修饰主要子句动词 decided 的原因。请注意：副词子句的主词是个虚字 it，和主要子句的主词 the rescue workers 并不相同。这种情况并不适合进行减化，因为两个子句并没有什么重叠的部分。如果还是要进行减化，要注意几个地方。第一，副词子句不同的主词it必须保留下来。第二，动词 was 要加上 -ing 改为现在分词 being，因为这种句型是分词构句的一种变形，必须有个分词才会清楚。第三，减化为 it being rather late 之后，原来的连接词（as）一定要省掉。这是因为：副词子句的主词既然和主要子句并无重复，减化时无法省略，那么减化子句并不会变得比较简洁。不过，减化之后可以省略的是原来那个连接词，所以要从连接词的省略来获得简洁的效果。因此，副词子句减化为分词构句时，如果主词不同而保留下来，连接词就一定要省略。
+副词子句（中括弧内的部分）修饰主要子句动词 decided 的原因。请注意：副词子句的主词是个虚字 it，和主要子句的主词 the rescue workers 并不相同。这种情况并不适合进行减化，因为两个子句并没有什么重复的部分。如果还是要进行减化，要注意几个地方。第一，副词子句不同的主词 it 必须保留下来。第二，一但保留下副词子句的主词，那么它的连接词（上例中的 as ）就一定要省略掉。这是因为副词子句的主词和主要子句并无重复，简化时无法省略，不过副词子句的动词经过简化处理之后，不再是限定动词，因而不需要连接词，所以可以从连接词的省略来达成简化的效果。因此，副词子句简化为分词构句时，如果主词不同而保留下来，连接词就一定要省略，如下：
 
-像上例那种情况，在分词构句中保留住不同的主词，这种构造在传统文法中称为「独立片语」。因为传统文法视 being rather late 这种分词片语为形容词、修饰前面的代名词 it，共同构成 it being rather late 这个名词片语。但是传统文法没有进一步去观察省略的情形，因而无法解释 it being rather late 这个名词片语扮演什么角色。在无法解释的时候，传统文法的做法就是取个名称来交代过去：「独立片语」表示 it being rather late 独立、与主要子句无关。其实，it being rather late 只不过是 because it was rather late 这个副词子句减化的结果。
+[<u>It</u> rather late], the rescue workers <u>decided</u> to quit.   
+简化副词子句 V  
+
+这个句子稍微有点勉强，因为简化之后 it 与 rather late 在句中所扮演的角色并不是一看就明白，整个句子语义不是非常清楚。如果把 be 动词改写为现在分词 being 保留下来（动词 was 加上 -ing 改为现在分词 being，因为这种句型是分词构句的一种变形，必须有个分词才会清楚），成为：
+
+[<u>It being</u> rather late], the rescue workers <u>decided</u> to quit.   
+简化副词子句 V  
+
+这样处理意思就会清楚很多。读者看到 being 在中间，那么前面的 it 自然是主词，后面的 rather late 则是主词补语，整个简化副词子句每一个部分的角色都清清楚楚。
+
+清楚性与简洁性往往是互相冲突的。比较上面两个句子，第二句固然比第一句清楚，但是就没有那么简洁。接着我们来试试看：如果再把连接词 as 留下来，句子会成为：
+
+*<u>As it being rather late</u> , the rescue workers <u>decided</u> to quit.【错误】    
+简化副词子句 V  
+
+这个句子是错的，因为 being 不是限定动词，不需要连接词。况且，未简化时副词子句是 as it was rather late，共计5个字。若经过「简化」却留下连接词，不只文法错误，改为 as it being rather late，算算还是5个字—-白忙了半天，没有任何效果！所以，副词子句简化时如果保留了不同的主词，连接词就一定得删掉，否则就是白做工又写错。
+
+我们再来看看前面提到正确的简化方式：
+
+[<u>It being</u> rather late], the rescue workers <u>decided</u> to quit.   
+简化副词子句(独立片语)  V  
+
+在副词子句简化而成的分词构句中，如果保留住原本的主词，这种构造在传统文法中称为「独立片语」。因为传统文法视 being rather late 这种分词片语为形容词，修饰前面的代名词 it，共同构成 it being rather late 这个名词片语。但是传统文法没有进一步去观察省略还原的变化，因而无法解释 it being rather late 这个名词片语扮演什么角色。在无法解释的时候，传统文法的做法就是取个新的名称来交代过去：「独立片语」，表示 it being rather late 这个名词片语是独立的，与主要子句无关。其实，it being rather late 只不过是 because it was rather late 这个副词子句减化的结果。
 
 ### 过去分词构句（Ven）
 
-如果副词子句里面的动词是 be 动词、后面用过去分词当补语（也就是一般文法所谓的被动态），那么减化的结果就会变成过去分词构句。例如：
+如果副词子句里面的动词是 be 动词，后面用过去分词当补语（也就是一般文法所谓的被动态），那么减化的结果就会变成过去分词构句。例如：
 
-[If it is provoked], a rhino <u>can be</u> very dangerous.
+[<u>If</u> it is provoked], a rhino <u>can be</u> very dangerous.   
 副词子句 V
 (如果受到激怒，犀牛可能非常危险。)
 
-中括弧内是个副词子句，修饰主要子句动词 can be 的条件。副词子句的主词 it 就是主要子句的主词 a rhino，可以进行减化：省略掉主词 it 与 be 动词 is，留下过去分词补语 provoked。减化子句不是限定子句、不再需要连接词，但是 if 这个连接词意思是「如果」，表示一种条件。省掉的话意思会不清楚，所以应该选择把连接词留下来，成为：
+中括弧内是个副词子句，修饰主要子句动词 can be 的条件。副词子句的主词 it 就是主要子句的主词 a rhino，可以进行减化：省略掉主词 it 与 be 动词 is，留下过去分词补语 provoked。减化子句不是限定子句，不再需要连接词，但是 if 这个连接词意思是「如果」，表示一种条件，省掉的话意思会不清楚，所以应该选择把连接词留下来，成为：
 
-[If provoked], a rhino <u>can be</u> very dangerous.
+[<u>(If) provoked</u>], a rhino <u>can be</u> very dangerous.
 减化副词子句 V
 
-再看一个例子：
+当然，如果 if 省略，句子还是正确的。再看一个例子：
 
-[After it was redecorated], the house <u>looks</u> more comfortable.
-副词子句 V
-(重新装潢之后，这个房子看起来舒服多了。)
-
-中括弧内是个副词子句，修饰主要子句动词 looks 的时间。副词子句的主词 it 就是主要子句的主词 the house，可以进行减化，做法是省略重复的主词 it、空洞的 be 动词 was，剩下补语部分 redecorated。接下来判断一下连接词 after 要不要保留。这个连接词的意思是「之后」，表达时间先后关系。如果省掉，是下面这种情况：
-
-[Redecorated], the house <u>looks</u> more comfortable.
-减化副词子句 V
-
-因为过去分词本身除了被动语态之外，还可以表示完成状态，所以 redecorated 一个字就可以代表「已经被装潢过之后」。连接词 after 不留，读者还是看得出来是「之后」，所以不需要保留它。
-
-如果为了表达得更清楚、还是选择要留下连接词 after，就得注意：after 这个连接词身兼介系词的功能。如果它后面跟一个限定子句，它就是从属连接词。如果它后面不是限定子句，它的词类就会自动转变成介系词。因此，一旦保留下来 after，它已经变成介系词的词类，后面必须接名词片语当它的受词，直接把过去分词放在它后面（如 after redecorated）会造成文法错误。因此，一旦决定要把 after 保留下来，后面就必须进行词类变化：设法把过去分词 redecorated 改变为名词类，才能当介系词 after 的受词。这有两种改法：
-
-[After being redecorated], the house <u>looks</u> more comfortable.
-减化副词子句 V
-
-[After the redecoration], the house <u>looks</u> more comfortable.
-减化副词子句 V
-
-第 1 种改法是在 redecorated 前面加上 being 这个无意义的动名词，这样可以保留住过去分词 redecorated 的被动语态、同时把词类改变为名词类。第 2 种改法是把过去分词 redecorated 直接改为名词片语 the redecoration，意思仍然差不多。再看一个例子：
-
-The house, [whether it is insured or not], <u>needs</u> a fire alarm.
-副词子句 V
+The house, [<u>whether</u> it is insured or not], <u>needs</u> a fire alarm.   
+副词子句 V   
 (这个房子，不论有没有保险，都需要装火警警铃。)
 
 中括弧内的部分是个副词子句，连接词 whether 相当于外加的连接词 no matter，引导这个副词子句修饰主要子句动词 needs。副词子句减化的方式是把重复的主词 it（代表the house）与空洞的 be 动词省略掉，如下：
 
-The house, [(whether) insured or not], <u>needs</u> a fire alarm.
+The house, [<u>(whether) insured</u> or not], <u>needs</u> a fire alarm.   
 副词子句 V
 
-连接词 whether 意思是「是否」，在减化子句中并不需要连接词。而「是否」的意思可以交给后面的 or not 来表示，所以减化子句中可以选择把 whether 省掉。当然，留下来也是正确的。
+连接词 whether 意思是「是否」。在减化子句中并不需要连接词，而「是否」的意思可以交给后面的 or not 来表示，所以减化子句中可以选择把 whether 省掉。当然，留下来也是正确的。
 
-下面这个例子的情况不大一样：
+#### 连接词可作介系词
 
-[When the job was concluded], the secretary <u>went</u> home.
-副词子句 V
+先看一个例子：
+
+[<u>After</u> it was redecorated], the house <u>looks</u> more comfortable.   
+副词子句 V   
+(重新装潢之后，这个房子看起来舒服多了。)
+
+中括弧内是个副词子句，修饰主要子句动词 looks 的时间。副词子句的主词 it 就是主要子句的主词 the house，可以进行减化，做法是省略重复的主词 it、空洞的 be 动词 was，剩下补语部分 redecorated。接下来判断一下连接词 after 要不要保留。这个连接词的意思是「之后」，表达时间先后关系。如果省掉，是下面这种情况：
+
+[Redecorated], the house <u>looks</u> more comfortable.   
+减化副词子句 V
+
+因为过去分词本身除了被动语态之外，还可以表示完成状态，所以 redecorated 一个字就可以代表「已经被装潢过之后」。连接词 after 不留，读者还是看得出来是「之后」，所以不需要保留它。
+
+如果想要表达得更清楚，当然也可以选择要留下连接词 after，这时就得注意：after 这个连接词身兼介系词的功能。如果它后面跟一个限定子句，它就是从属连接词；如果它后面不是限定子句，它的词类就会自动转变成介系词。因此，简化时一旦保留 after，就是将它视为介系词，后面必须接名词片语当它的受词。如果直接把过去分词放在它后面（如 *after redecorated），就是错误的文法。因此，一旦决定要把 after 保留下来，后面就必须进行词类变化：设法把过去分词 redecorated 改变为名词类，才能当介系词 after 的受词。这有两种改法：
+
+[After <u>being redecorated</u>], the house <u>looks</u> more comfortable.   
+介系词片语  V
+
+[After <u>the redecoration</u>], the house <u>looks</u> more comfortable.   
+介系词片语  V
+
+第 1 种改法是把前面的was拿出来做词类变化，改写为动名词 being， 这样可以保留住过去分词 redecorated 的被动语态，同时把整个片语的词类改变为名词类。第 2 种改法是把过去分词 redecorated 直接改为名词片语 the redecoration，这种做法虽然牺牲了被动语态，但语义其实差不多。
+
+#### 副词子句的主词与主要子句不同：独立片语
+
+副词子句简化为独立分词构句，如果留下不同的主词，就称为「独立片语」。举一个例子：
+
+[<u>When</u> the job was concluded], the secretary <u>went</u> home.    
+副词子句 V   
 (工作做完了，秘书就回家了。)
 
-中括弧内是个副词子句，修饰主要子句动词 went 的时间。但是副词子句的主词 the job 和主要子句的主词 the secretary 不一样，这种情况并没有可以减化的空间。如果还是要进行减化，就得把副词子句不同的主词 the job 保留下来。动词片语的部分仍然是省略掉 be 动词、留下过去分词补语 c​​oncluded。这是分词构句的一种特殊变形，传统文法称为独立片语。这种构造要注意：因为保留了不同的主词、没有获得减化的效果，所以原来的连接词一定要省略，这样才真正有减化的效果出现，如下：
+中括弧内是个副词子句，修饰主要子句动词 went 的时间。但是副词子句的主词 the job 和主要子句的主词 the secretary 不一样，这种情况并没有可以减化的空间。如果还是要进行减化，就得把副词子句不同的主词 the job 保留下来。动词片语的部分仍然是省略掉 be 动词，留下过去分词补语 c​​oncluded。这是分词构句的一种特殊变形，传统文法称为独立片语。这种构造的重点在于，因为保留了不同的主词，没有获得减化的效果，所以原来的连接词一定要省略，这样才真正有减化的效果出现，如下：
 
-[The job concluded], the secretary <u>went</u> home.
-减化副词子句 V
+[<u>The job concluded</u>], the secretary <u>went</u> home.   
+减化副词子句(独立片语)  V
 
 ### Being和having been的用法
 
-许多人搞不清楚 being 与它的完成状态 having been 该怎么使用。先看 being，它里面的 be 动词是空的、完全没有意义。会用到being，完全是需要它字尾的 -ing。这个字尾有两种功能：一是强调进行状态、一是做词类变化，这也就是being这个字的两大用途。例如：
+前面我们在进行简化时，常会用到 being，许多人搞不清楚 being 与它的完成状态 having been 该怎么使用。我们分别来看看。
 
-<u>The case</u> <u>is</u> <u>closed</u> now.
-S V C
+#### being 的用法
+be 动词是个没有意义的字，会用到being，完全是需要它字尾的 -ing。这个字尾有两种功能：一个是强调进行状态，另一个是进行词类变化，这也就是 being 这个字的两大用途。
+
+<u>The case</u> <u>is</u> <u>closed</u> now.   
+S V C   
 (案子现在已经结案。)
 
-补语部分的过去分词 closed 除了表示被动语态「被结」，同时也表示完成状态「已经结掉」。如果要表达的是「正在被结案中，尚未完成」，就得用到 being 了：
+补语部分的过去分词 closed 除了表示被动语态「被结束」，同时也表示完成状态「已经结束」。如果要表达的是「正在被结案中，尚未完成」，就得用到 being 了：
 
-<u>The case</u> <u>is</u> <u>being closed</u> now.
+<u>The case</u> <u>is</u> <u>being closed</u> now.   
 S V C
 
-补语部分必须用到过去分词 closed 才能表示被动语态「被结」。但是过去分词 closed 同时也暗示完成状态「已经结掉」。这时候就得加上 being 来强调进行状态「正在」，这样可以破除过去分词 closed 的完成状态暗示，只留下被动语态：being closed 才能清楚表示「正在被结案中」。再看一个例子：
+补语部分必须用到过去分词 closed 才能表示被动语态「被结束」，但是因为过去分词 closed 同时也可能暗示完成状态「已经结掉」，所以只能加上 being 来强调进行状态「正在」，让读者明白此时去分词 closed 只表示被动语态，不表示完成状态，being closed 就能清楚表示「正在被结案中」。再看一个例子：
 
-When I said just now that his poem was excellent, <u>I</u> <u>was</u> <u>being nice</u>.
-S V C
+[<u>When</u> I said just now that his poem was excellent], <u>I</u> <u>was</u> <u>being nice</u>.   
+副词子句  S V C   
 (我刚才说他写的那首诗好极了，那是在说客套话。)
 
-主要子句如果改为 I was nice，意思是说「我是个好人」。补语部分必须加上现在分词 being 来强调进行状态，意思才变成「在说客套话」。 以上是 being 用于「强调进行状态」的用法。接下来看看 being 用于词类变化的用法。
+主要子句如果改为 I was nice，意思是说「我是个好人」。补语部分必须加上现在分词 being 来强调进行状态，意思才变成「在说客套话」。 
 
-Being 可以当现在分词、也可以当动名词使用。如果 being 是现在分词，加在名词前面时可以把名词的词类转变为分词片语，就可以用在分词构句中。例如：
+以上是 being 用于「强调进行状态」的用法。接下来看看 being 的第二种主要用途：用来做词类变化。
 
-[Because you are my best friend], you <u>must tell</u> me the truth.
-副词子句 V
+Being 可以当现在分词，也可以当动名词使用。如果 being 是现在分词，加在名词前面时可以把名词的词类转变为分词片语，就可以当形容词片语使用。以下以一个简化为分词构句的用法为例：
+
+[<u>Because</u> you are my best friend], you <u>must tell</u> me the truth.   
+副词子句 V   
 (因为你是我最好的朋友，你一定要跟我说真话。)
 
-副词子句（中括弧内部分）的主词 you 和主要子句相同，可以减化。动词是无意义的 are，本来也可以减化，但是结果会变成名词补语 my best friend，和原来的副词子句词类差距太大。而且 because 又是一个不能保留的连接词，减化之后只剩下名词片语 my best friend，读者无从判断它是扮演什么角色。这时候就该在前面加个 being 来做词类变化：把名词片语转变成分词片语 being my best friend，就可以当分词构句使用、取代副词子句，如下：
+副词子句（中括弧内部分）的主词 you 和主要子句的主词相同，可以减化。动词是无意义的 are，也可以省略。如此简化的结果就是：
 
-[Being my best friend], you <u>must tell</u> me the truth.
+[My best friend], you <u>must tell</u> me the truth.   
+简化副词子句 V   
+
+这个句子在文法上是正确的。不过，副词子句简化之后变成名词片语 my best friend，和原来的副词子句词类差距太大，语义比较不清楚。而且 because 又是一个不能保留的连接词，减化之后只剩下名词片语 my best friend 放在句首，看起来比较像是主词而不是补语。这时候，如果选择前面的 are 出来做词类变化，变成 being，结果就是：
+
+[Being my best friend], you <u>must tell</u> me the truth.   
 减化副词子句 V
+
+把名词片语 my best friend 转变成分词片语 being my best friend，这时，副词子句简化为分词构句，语义清楚许多。而且，my best friend 放在 being 后面，很明显是补语，至于副词子句中被简化掉的主词一定就等于逗点后面的 you (主词必须相同)。这样一来，整个句子虽然经过简化，但是看起来清清楚楚，这就是使用 being 来做词类变化的好处。
 
 另外，如果 being 是动名词，加在形容词或副词前面时可以把这些词类转变为名词类使用。例如：
 
-[Without being rude], the man <u>told</u> the woman that she was wrong.
-介系词片语
+[Without <u>being</u> rude], the man <u>told</u> the woman that she was wrong.   
+介系词片语   
 (并没有不礼貌，这位先生告诉这位小姐说她搞错了。)
 
-介系词片语（中括弧内部分）修饰主要子句动词 told 的方式。介系词片语中有个形容词 rude，不能直接当介系词的受词使用。一旦加上 being，变成动名词片语 being rude，就符合词类要求、可以当受词使用了。再看一个例子：
+介系词片语（中括弧内部分）修饰主要子句动词 told 的方式。介系词片语中有个形容词 rude，不能直接当介系词 without 的受词使用。不过一旦加上 being，变成动名词片语 being rude，就符合词类要求，可以当受词使用了。再看一个例子：
 
-The students <u>rushed out</u> at the sound of the bell [before they were told to leave].
-V 副词子句
+The students <u>rushed out</u> at the sound of the bell [before they were told to leave].   
+V 副词子句   
 (学生们不等别人吩咐，一听到铃声就冲出去了。)
 
-副词子句（中括弧内的部分）修饰主要子句动词 rushed out 的时间。它的主词 they 与主要子句相同，可以省略。接下来是省略掉空洞的 were，剩下过去分词补语 told to leave。但是，从属连接词 before 必须保留下来才看得出来「在…之前」的意思。而 before 又是连接词与介系词两种词类兼具，减化子句中一旦留下它来就会自动转变为介系词。而在介系词 before 后面不能直接用过去分词 told to leave，必须改为名词类。但是过去分词 told 表示「被告知」的被动语态，所以不能更动。这时候只有在前面加上 being，成为 being told to leave 这个动名词片语，才能够当介系词 before 的受词使用，如下：
+副词子句（中括弧内的部分）修饰主要子句动词 rushed out 的时间。它的主词 they 与主要子句相同，可以省略。接下来是省略掉空洞的 were，剩下过去分词补语 told to leave。但是，从属连接词 before 必须保留，才能有「在…之前」的意思。而 before 可以当作连接词，也可以当作介系词， 在减化子句中一旦留下来就会自动转变为介系词。介系词 before 后面的受词必须是名词类，不能直接用过去分词 told to leave。但是我们需要过去分词 told 来表示「被告知」的被动语态，所以 told 不能更动。这时候只好在它前面加上 being，成为 being told to leave 这个动名词片语，才能够当介系词 before 的受词使用，才能在词类变化之后任维持语义，如下：
 
 The students <u>rushed out</u> at the sound of the bell [before being told to leave].
-V 减化副词子句
+V  介系词片语
 
-至于 having been 的用法，它是 being 的完成式，表达「已经」的完成状态，因此它不再具有强调进行的功能，只能用来表示「已经」，以及用来做词类变化。分别说明如下：
+#### having been 的用法
 
-[After he has been a soldier for 10 years], the man <u>is</u> quite used to taking orders.
-副词子句 V
+至于 having been 的用法，它是 being 的完成式，不再强调进行的功能，而是表达「已经如何」的完成状态，以及用来做词类变化。分别说明如下：
+
+[After he has been a soldier for 10 years], the man <u>is</u> quite used to taking orders.   
+副词子句 V   
 (当了十年兵之后，这名男子已经相当习惯服从命令了。)
 
-副词子句（中括弧内的部分）修饰主要子句动词 is 的时间。它的主词 he 就是主要子句的主词 the man，可以减化。动词是完成式的 has been。里面的 be 动词本身没有意义，只表达完成状态「已经」。可以选择加上 -ing 成为 having been 保留下来，一方面因为后面是名词（a soldier）、需要做词类变化（成为分词构句），一方面也可以用 having been 的完成状态取代原来的连接词 after ，如下：
+副词子句（中括弧内的部分）修饰主要子句动词 is 的时间。它的主词 he 就是主要子句的主词 the man，可以减化。动词是完成式的 has been。里面的 be 动词本身没有意义，只表达完成状态「已经」。如果选择省略掉 has been，牺牲掉完成状态，结果如下：
 
-[Having been a soldier for 10 years], the man <u>is</u> quite used to taking orders.
+[A soldier for 10 years], the man <u>is</u> quite used to taking orders.   
+简化副词子句 V  
+
+这是个正确的句子。虽然没有完成式，但是因为有时间副词 for 10 years，意思还是清楚的。如果考虑到读者可能不易判断句首位置的 a soldier 是主词还是补语，也可以选择把 has been 拿来做词类变化，加上 -ing 成为 having been 保留下来，一方面因为后面是名词（a soldier），需要做词类变化（成为分词构句），一方面也可以用 having been 的完成状态取代原来的连接词 after ，如下：
+
+[<u>Having been</u> a soldier for 10 years], the man <u>is</u> quite used to taking orders.   
 减化副词子句 V
 
-另外，如果分词构句中是 having been + Ven，那么 having been 属于可有可无的性质，可以省略。例如：
+读者看到 a soldier 在 having been 的后面，就会知道它是补语而不是主词。having been a soldier for 10 years 是个标准的分词构句，这是副词子句简化之后最常见的结果之一，语义十分清楚。当然，清楚交代语义之后，自然就没有前一个写法那么简洁了。
 
-[Because it had been trained to search for survivors], the dog <u>did</u> a good job at 9/21.
-副词子句 V
+#### （having been）Ven
+
+另外，如果分词构句中是 having been + Ven，这里的 having been 可有可无，省略也没有关系。例如：
+
+[Because it had been trained to search for survivors], the dog <u>did</u> a good job at 9/21.   
+副词子句 V   
 （因为它受过搜救生还者的训练，这只狗在9/21大地震表现不错。）
 
-中括弧内是个副词子句，修饰主要子句动词 did 的原因。它的主词 it 就是主要子句的主词 the dog，在减化时可以省略掉。动词片语 had been 有两种处理方式。这个动词片语里面是空洞的 be 动词，本身没有意义。但是 had been 是完成式，可以表达「已经」的完成状态。如果选择要把它保留下来，就得视同普通动词看待、加 -ing 成为 having been。再把表示因果关系的连接词 because 省掉（这一类的连接词都不能保留），如下：
+中括弧内是个副词子句，修饰主要子句动词 did 的原因。它的主词 it 就是主要子句的主词 the dog，在减化时可以省略掉。动词片语 had been 有两种处理方式，其中的 be 动词本身没有意义。但是 had been 是完成式，可以表达「已经」的完成状态。如果选择要把它保留下来，就得视同普通动词看待、加 -ing 成为 having been。再把表示因果关系的连接词 because 省掉（因果关系的连接词都不保留），如下：
 
-[Having been trained to search for survivors], the dog <u>did</u> a good job at 9/21.
+[Having been trained to search for survivors], the dog <u>did</u> a good job at 9/21.   
 减化副词子句 V
 
 另一种做法是选择把整个动词片语 had been 视为无意义而省略掉，只留下过去分词补语，如下：
 
-[Trained to search for survivors], the dog <u>did</u> a good job at 9/21.
+[Trained to search for survivors], the dog <u>did</u> a good job at 9/21.   
 减化副词子句 V
 
-因为，having been 唯一的意义在于表达「已经」的完成状态，而它后面的过去分词 trained 本身除了表示被动语态「被训练」，也可以表达完成状态「已经训练过」，足以取代前面 having been 的意思。再从词类上观察，trained 是过去分词、having been trained 是现在分词，同样都可以当分词构句使用。所以，不论是字意还是文法功能，在分词构句中的 having been trained 与 trained 都是一样的。
+可以这么做是因为，having been 唯一的意义在于表达「已经」的完成状态，而它后面的过去分词 trained 本身除了表示被动语态「被训练」，也可以表达完成状态「已经训练过」，足以取代前面 having been 的意思。再从词类上观察，trained 是过去分词、having been trained 是现在分词，同样都可以当分词构句使用。所以，不论是字意还是文法功能，在分词构句中的 having been trained 与 trained 都是一样的。
 
 如果 having been + Ven 是当动名词片语使用，那么 having been 具有不可或缺的词类变化功能、不得省略。例如：
 
-[After it had been robbed five times], the store finally <u>installed</u> a security system.
-副词子句 V
+[After it had been robbed five times], the store finally <u>installed</u> a security system.   
+副词子句 V   
 （在遭抢五次之后，这家商店终于装设了保全系统。）
 
-副词子句（中括弧内的部分）修饰主要子句动词 installed 的时间。副词子句的主词与主要子句相同，可以省略。动词 had been 因为后面有过去分词 robbed，本来可以选择省略掉 had been、只留下 robbed 来做分词构句。但是如果选择要留下连接词 after，它就会转变为介系词。在介系词 after 后面连带也就需要名词类当它的受词。过去分词 robbed 有表示被动语态「被抢」​​的功能，需要保留。这时候就得在 had been 后面加上 -ing，成为 having been robbed 这个动名词片语，才能够当作介系词 after 的受词，如下：
+副词子句（中括弧内的部分）修饰主要子句动词 installed 的时间。副词子句的主词与主要子句相同，可以省略。动词 had been 因为后面有过去分词 robbed，本来可以选择省略掉 had been，只留下 robbed 来做分词构句。但是如果选择要留下连接词 after，它就会转变为介系词。在介系词 after 后面连带也就需要名词类当它的受词。过去分词 robbed 有表示被动语态「被抢」​​的功能，需要保留，因此无法改为名词类。这时候就得把 had been 拿出来做词类变化，在后面加上 -ing，成为 having been robbed 这个动名词片语，才能够当作介系词 after 的受词，如下：
 
-[After having been robbed five times], the store finally <u>installed</u> a security system.
-减化副词子句 V
+[After having been robbed five times], the store finally <u>installed</u> a security system.   
+介系词片语 V
 
 当然，减化子句部分如果省略掉 after 成为 having been robbed five times，或什至再省略掉 having been 成为 robbed five times，意思也都还够清楚。
+
+[Having been robbed five times], the store finally <u>installed</u> a security system.   
+简化副词子句 V
+
+[Robbed five times], the store finally <u>installed</u> a security system.   
+简化副词子句 V
+
 
 ### 分词构句的位置
 
@@ -316,46 +374,52 @@ V 减化副词子句
 [When he entered the classroom], the teacher <u>greeted</u> <u>the students</u>.
 副词子句 V O
 
+句首位置的分词片语必须有逗点和主要子句隔开，否则是文法错误。
+
 #### 句中
 
-句首位置的分词片语必须有逗点和主要子句隔开，否则是文法错误。放在句中位置就不一定了。分词片语放在句中位置如果没有逗点隔开，很可能是关系子句的减化，如下：
+放在句中位置就不一定要逗点了。分词片语放在句中位置如果没有逗点隔开，很可能是关系子句的减化，如下：
 
-<u>The teacher</u> [entering the classroom] <u>greeted</u> <u>the students</u>.
-S 减化形容词子句 V O
+<u>The teacher</u> [entering the classroom] <u>greeted</u> <u>the students</u>.   
+S 减化关系子句 V O
 (进入教室的那位老师和学生们打招呼)
 
-这个位置的分词片语没有用逗点隔开，是下面这个关系子句减化的结果：
+还原成简化前的关系子句，会是这样：
 
 <u>The teacher</u> [who entered the classroom] <u>greeted</u> <u>the students</u>.
 S 关系子句 V O
 
-关系子句（中括弧内的部分）没有用逗点隔开，表示它具有指示功能，关系代名词 who 可以改写为 that，整个关系子句用于指出是「走进教室的那位老师」。减化为分词片语 entering the classroom 之后仍然具有同样的指示功能。另外，放在句中位置的分词片语如果有一对逗点和主要子句隔开，有可能是关系子句的减化，也有可能是分词构句（副词子句减化）。不过这两种诠释的意思差不多。例如：
+关系子句（中括弧内的部分）没有用逗点隔开，表示它具有指示功能，关系代名词 who 可以改写为 that，整个关系子句用于指出是「走进教室的那位老师」。减化为分词片语 entering the classroom 之后仍然具有同样的指示功能。
+
+另外，放在句中位置的分词片语如果有一对逗点和主要子句隔开，有可能是关系子句的减化，也有可能是分词构句（副词子句减化）。不过这两种诠释的意思差不多。例如：
 
 <u>The teacher</u>, [entering the classroom], <u>greeted</u> <u>the students</u>.
 S 减化子句 V O
 (老师走进教室、和学生打招呼。)
 
-句中位置这个分词片语，前后有一对逗点和主要子句隔开。这时候它有可能是不具指示功能的关系子句 who entered the classroom 的减化、修饰先行词 the teacher，也有可能是时间副词子句 when he entered the classroom 减化为分词构句，修饰动词 entered 的时间。不过，这两种诠释的意思差不了太多，虽然稍有模棱两可之嫌但还可以接受。
+句中位置这个分词片语，前后有一对逗点和主要子句隔开。这时候它有可能是不具指示功能的关系子句 who entered the classroom 的减化，修饰先行词 the teacher，也有可能是时间副词子句 when he entered the classroom 减化为分词构句，修饰动词 entered 的时间。不过，这两种诠释的意思差不了太多，虽然稍有模棱两可之嫌但还可以接受。
 
 #### 句尾
 
-分词片语放在句尾位置，如果没有逗点和主要子句隔开，有可能是受词补语，如下：
+分词片语放在句尾位置，如果没有逗点和主要子句隔开，应该是关系子句的简化，如下：
 
-<u>The teacher</u> <u>greeted</u> <u>the students</u> <u>entering the classroom</u>.
-S V O C
+<u>The teacher</u> <u>greeted</u> <u>the students</u> [<u>entering the classroom</u>].   
+S V O  简化关系子句
 (老师和走进教室的学生们打招呼。)
 
-句尾的 entering the classroom 这个分词片语没有逗点隔开，是主要子句的元素之一：受词补语，形容的对像​​是受词 the students。这时候，「走进教室」的不再是老师、变成是学生们。
+句尾的 entering the classroom 这个分词片语没有逗点隔开，是关系子句的简化，可以还原为 who were  entering the classroom ，形容的对像​​是先行词 the students。这时候，「走进教室」的不再是老师，而是学生们。
 
-句尾位置的分词片语如果有逗点隔开，仍然要当作分词构句看待，也就是副词子句的减化。例如：
+句尾位置的分词片语如果有逗点隔开，通常要当作分词构句看待，也就是副词子句的减化。例如：
 
 <u>The teacher</u> <u>greeted</u> <u>the students</u>, [entering the classroom].
 S V O 减化副词子句
 (老师和学生们打招呼，在他走进教室的时候。)
 
-这时候，「走进教室」的仍然是老师。中括弧内的部分是分词构句，来自下面这个时间副词子句的减化：when he entered the classroom，修饰动词 greeted 的时间。
+这个句子中，「走进教室」的仍然是老师。中括弧内的部分是分词构句，来自时间副词子句 when he entered the classroom 的减化，用于修饰动词 greeted 的时间。
 
-### Dangling Modifier 的错误
+### 常见错误：Dangling Modifier
+
+分词构句是既精简又清楚的高级句型，写作时如果能正确运用，会有加分的效果。但是写这种句型也很容易出错，要非常小心。
 
 写作分词构句，要特别注意「主词相同」的要求：副词子句减化为分词构句，前提是副词子句的主词必须和主要子句相同，否则不能省略主词。如果副词子句的主词和主要子句并不相同却被省略掉，这是一种最常犯的写作错误，甚至取了一个特别的名称来称呼它：**dangling modifier「悬荡修饰语」**。例如：
 
